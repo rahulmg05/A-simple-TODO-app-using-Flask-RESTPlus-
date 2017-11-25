@@ -1,6 +1,0 @@
-.idea/*
-env/*
-todo/__pycache__/*
-todo/core/__pycache__/*
-todo/resources/__pycache__/*
-todo/resources/todo/__pycache__/*
